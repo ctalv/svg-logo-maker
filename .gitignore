@@ -1,1 +1,3 @@
 node_modules
+tests/validation.test.js
+lib/validation.js
