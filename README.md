@@ -34,7 +34,12 @@ To use this application, you must:
 5. You will find your completed svg file in the output folder!
 
 Note: if you run the code again, it WILL overwrite your previously generated SVG Logo.
-    
+
+
+
+https://user-images.githubusercontent.com/122413805/235293567-afca7d37-d7f0-4b36-9f27-08388912bbdf.mp4
+
+
  
 ## Credits
 Inquirer Validation: https://stackoverflow.com/questions/75216883/repetitive-prompting-with-validation-in-inquirer-js-when-using-a-validation-func
