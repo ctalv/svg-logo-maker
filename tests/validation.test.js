@@ -1,7 +1,8 @@
-const validation = require('../lib/validation');
+const Validate = require('../lib/validation.js');
 
-test('should throw error if render() is called', () => {
-    const shape = new Triangle();
-    shape.setColor("blue");
-    expect(shape.render()).toEqual('<polygon points="150, 18 244, 182 56, 182" fill="blue" />');
+test('if color is a named color, should be true', () => {
+    const validate = new Validate('NA','blue','NA');
+    
+    
+    expect(validate.colorTextValidation()).toBe(true);
 })
